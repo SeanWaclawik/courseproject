@@ -2,7 +2,7 @@
 
 SeanWaclawik's ideas:
 
-  -make a generic, clean cut, good looking, generic personal website 
+  - make a generic, clean cut, good looking, generic personal website 
   that can easily used modified and personalized very easily by website newbies
   Use js/meteor for project
   
